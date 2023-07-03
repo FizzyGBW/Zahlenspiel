@@ -8,5 +8,5 @@ Die .jar datei ist mit doppelclick ausfurhbar
 Fur Windows User:
 Gepackt habe ich es in eine .rar datei.
 
-Universal:
-Gepackt habe ich es in eine .zip datei
+Linux:
+Gepackt habe ich es in eine .tar.gz datei
